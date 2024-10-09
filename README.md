@@ -1,5 +1,5 @@
 
-<h3 align="center">Full-Stack Web Developer | React.js & Node.js Enthusiast | Cross-Platform Mobile Developer</h3>
+<h3 align="center">Full-Stack Web Developer | React.js & Node.js | Cross-Platform Mobile Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_600_2000/0/1693753179836?e=2147483647&v=beta&t=XR0NwEBapgyMfEor_5WiyLKiyQzwoPKtp6EKkXY_zpQ"/>
 
 - 🔭 I’m currently working on clasp tax
