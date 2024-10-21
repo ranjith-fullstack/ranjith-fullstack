@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on clasp tax
 
-- 🌱 I’m currently learning *React-Native*
+- 🌱 I’m currently learning *React-Native backend*
 
 - 💬 Ask me about *Ask me about React.js, Node.js, and full-stack development.*
 
