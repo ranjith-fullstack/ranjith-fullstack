@@ -2,19 +2,16 @@
 <h3 align="center">Full-Stack Web Developer | React.js & Node.js | Cross-Platform Mobile Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_600_2000/0/1693753179836?e=2147483647&v=beta&t=XR0NwEBapgyMfEor_5WiyLKiyQzwoPKtp6EKkXY_zpQ"/>
 
-- 🔭 I’m currently working on a Photo Frame Dealer project, focusing on building an intuitive platform for users to browse and purchase photo frames.
-
-- 🌱 I’ve previously completed a freelancing project for US Tax Selection, where I developed solutions to simplify tax selection processes for users, ensuring accuracy and efficiency.
-
-- 📱 I’ve also created a basic React Native app with features like login/signup functionality and an eCommerce home page, aiming to enhance user experience with seamless navigation and functionality.
-
-- 💬 Ask me about React.js, Node.js, Full-stack development, and building both web and mobile apps. I specialize in UI/UX design, API development, and creating scalable solutions for eCommerce and other 
-     industries.
-
-- 🌍 Passionate about open-source contributions, cloud computing, and staying up-to-date with the latest technologies in React Native and JavaScript frameworks.
-
-- 📚 Continuously improving my skills and learning new tools and frameworks to build robust, user-centric applications.
-
+- 🔭 Currently working on a Photo Frame Dealer project, building a platform for users to browse and buy photo frames.
+  
+- 🌱 Completed a freelancing project for US Tax Selection, streamlining tax selection processes for users.
+  
+- 📱 Developed a React Native app with login/signup functionality and an eCommerce home page.
+  
+- 💬 Ask me about React.js, Node.js, and full-stack development. I specialize in building scalable web and mobile apps.
+  
+- 🌍 Constantly improving my skills in web and mobile development, with a focus on creating user-friendly applications.
+  
 - 📫 How to reach me *ranjithkumarreddy3108@gmail.com*
 
 
