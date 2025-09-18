@@ -1,11 +1,14 @@
-<h3 align="center">🚀 MERN Stack Web Developer | React.js & Node.js | Cross-Platform Mobile Developer | Java Spring Boot Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_600_2000/0/1693753179836?e=2147483647&v=beta&t=XR0NwEBapgyMfEor_5WiyLKiyQzwoPKtp6EKkXY_zpQ"/>
+<h3 align="center">🚀 MERN Stack Web Developer | React.js & Node.js | Cross-Platform Mobile Developer | Java Spring Boot | AI & Automation Enthusiast</h3>
+
+<!-- AI Banner -->
+<img align="right" alt="AI Developer" width="400" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/06/ai-developer.jpg"/>
 
 - 🔭 Currently working on a **Photo Frame Dealer** platform for browsing and purchasing photo frames.  
 - 🌱 Completed a freelancing project for **US Tax Selection**, streamlining tax selection processes.  
 - 📱 Built a **React Native eCommerce app** with login/signup and home page.  
-- 💬 Ask me about **React.js, Node.js, MERN stack, and Java Spring Boot**.  
-- 🌍 Passionate about **scalable, user-friendly web & mobile apps**.  
+- 🤖 Exploring **AI integrations & n8n automation** for building AI-powered workflows.  
+- 💬 Ask me about **React.js, Node.js, MERN stack, Java Spring Boot & AI Automation**.  
+- 🌍 Passionate about **scalable, user-friendly web, mobile & AI-driven apps**.  
 - 📫 Reach me at: **ranjithkumarreddy3108@gmail.com**  
 
 ---
@@ -19,7 +22,7 @@
 
 ---
 
-<h3 align="left">🛠 Languages and Tools:</h3>
+<h3 align="left">🛠 Languages, Tools & AI Tech:</h3>
 <p align="left">
   <!-- Web & Mobile -->
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
@@ -43,5 +46,9 @@
   
   <!-- Tools -->
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://babeljs.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/375px-Babel_Logo.svg.png" alt="babel" width="40" height="40"/></a>
+  <a href="https://babeljs.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Babel_Logo.svg" alt="babel" width="40" height="40"/></a>
+  
+  <!-- AI & Automation -->
+  <a href="https://openai.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="openai" width="40" height="40"/></a>
+  <a href="https://n8n.io/" target="_blank"><img src="https://seeklogo.com/images/N/n8n-logo-231D9AFB11-seeklogo.com.png" alt="n8n" width="40" height="40"/></a>
 </p>
